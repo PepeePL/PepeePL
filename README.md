@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pepee</h1>
-<h3 align="center">The person, who learns everything and can't do anything.</h3>
+<h3 align="center">The person who learns everything and can't do anything.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pepeepl&label=Profile%20views&color=0e75b6&style=flat-square" alt="pepeepl" /> </p>
 
